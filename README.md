@@ -5,11 +5,12 @@
 
 ## My conventions
 
+**Naming convention for my repos:** starting with 4 letters
 - Repos starting with "**meng**": everthing related to my masters degree (e.g. modules, templates)
-- Repos starting with "**notes**": should be just one. But I know myself. The place where I collect general notes about everything.
+- Repos starting with "**note**": should be just one. But I know myself. The place where I collect general notes about everything.
 - Repos starting with "**proj**": for substantial projects (don't know what that means yet), like my website to learn the georgian language
-- Repos starting with "**script**": for short standalone scripts, like pdf-mergins or creating a website out of md files
-- Repos starting with "**sandbox**": for learning projects, like matlab or python. Just to experiment with
+- Repos starting with "**scri**": for short standalone scripts, like pdf-mergins or creating a website out of md files
+- Repos starting with "**sand**": for learning projects, like matlab or python. Just to experiment with in a sandbox
 
 <!---
 farmrkoen/farmrkoen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
