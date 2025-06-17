@@ -6,7 +6,7 @@
 ## My conventions
 
 - Repos starting with "**meng**": everthing related to my masters degree (e.g. modules, templates)
-- Repos starting with "**notes**": should be just one. But I know myself. The place where I collect non-specific / general notes about everything. Vault in Obsidian, backup in Github
+- Repos starting with "**notes**": should be just one. But I know myself. The place where I collect general notes about everything.
 - Repos starting with "**proj**": for substantial projects (don't know what that means yet), like my website to learn the georgian language
 - Repos starting with "**script**": for short standalone scripts, like pdf-mergins or creating a website out of md files
 - Repos starting with "**sandbox**": for learning projects, like matlab or python. Just to experiment with
